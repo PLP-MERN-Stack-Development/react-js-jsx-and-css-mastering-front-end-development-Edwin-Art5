@@ -199,4 +199,5 @@ You can deploy this project to Vercel, Netlify, or GitHub Pages.
 * React Router: [https://reactrouter.com/](https://reactrouter.com/)
 * JSONPlaceholder: [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
 
----
+SCREENSHOT: ![alt text](../Screenshot.png)
+DEPLOYMENT LINK: https://dist-2km8qioq7-edwins-projects-3773604c.vercel.app
